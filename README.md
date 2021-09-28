@@ -1,4 +1,7 @@
 ### Hi 👋, this is Shilong Li
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-1568BF?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%E8%AF%97%E9%BE%99-%E9%BB%8E-675055220/)
+
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=lethal233" />
 
 [![lethal233's GitHub stats](https://github-readme-stats.vercel.app/api?username=lethal233&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
