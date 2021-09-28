@@ -1,4 +1,5 @@
-### Hi 👋, this is Shilong Li
+### Bonjour 👋, this is Shilong Li (Sze-Loong LAI in Cantonese, 黎诗龙 in Chinese)
+-----------------------------------------------
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-1568BF?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%E8%AF%97%E9%BE%99-%E9%BB%8E-675055220/)
 
