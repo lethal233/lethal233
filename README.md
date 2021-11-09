@@ -17,6 +17,8 @@
 
 [![lethal233's GitHub stats](https://github-readme-stats.vercel.app/api?username=lethal233&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- ![lethal233's GitHub stats](https://github-readme-stats.vercel.app/api?username=lethal233&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true) -->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lethal233&layout=compact&hide=VHDL,Coq)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
