@@ -13,8 +13,8 @@
 - 💬 View me on [pages](https://lethal233.github.io) (still under construction)
 - ⚡ A Senior UG @ SUSTech CSE
 - 😄 I am so "vegetable"
-- 🔭 Currently working on blockchain testing and web testing
-- 🌱 Studying Go & Rust
+- 🔭 Worked on blockchain testing
+- 🌱 Studying Go & Rust and work on web testing
 
 
 <!-- [![lethal233's GitHub stats](https://github-readme-stats.vercel.app/api?username=lethal233&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
