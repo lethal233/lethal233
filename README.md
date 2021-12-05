@@ -10,10 +10,10 @@
 
 
 ### I'm LSL
-- 💬 View me on [pages](https://lethal233.github.io) (still under construction)
+- 💬 More about me on [GitHub pages](https://lethal233.github.io) (...still under construction)
 - ⚡ A Senior UG @ SUSTech CSE
-- 😄 I am so "vegetable"
 - 🔭 Worked on blockchain testing
+- 😄 Wanting unpredicted challenges
 - 🌱 Studying Go & Rust and work on web testing
 
 
