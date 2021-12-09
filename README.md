@@ -10,7 +10,7 @@
 
 
 ### I'm LSL
-- 💬 More about me on [GitHub pages](https://lethal233.github.io) (...still under construction)
+- 💬 More about me on [GitHub pages](https://lethal233.github.io) (near to be done!)
 - ⚡ A Senior UG @ SUSTech CSE
 - 🔭 Worked on blockchain testing
 - 😄 Wanting unpredicted challenges
