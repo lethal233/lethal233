@@ -15,6 +15,7 @@
 - 🔭 Worked on blockchain testing
 - 😄 Wanting unpredicted challenges
 - 🌱 Studying Go & Rust and work on web testing
+- Our team has contributed to [fastjson](https://github.com/alibaba/fastjson) and [easyexcel](https://github.com/alibaba/easyexcel)
 
 
 <!-- [![lethal233's GitHub stats](https://github-readme-stats.vercel.app/api?username=lethal233&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
