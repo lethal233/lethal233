@@ -10,12 +10,13 @@
 
 
 ### I'm LSL
-- 💬 More about me on [GitHub pages](https://lethal233.github.io) (near to be done!)
+
 - ⚡ A Senior UG @ SUSTech CSE
-- 🔭 Worked on blockchain testing
-- 😄 Wanting unpredicted challenges
-- 🌱 Studying Go & Rust and work on web testing
-- Our team has contributed to [fastjson](https://github.com/alibaba/fastjson) and [easyexcel](https://github.com/alibaba/easyexcel)
+- 🔭 Software (backend) / hardware development
+- 😄 Wanting adventures
+- 🌱 Working on web testing
+- 💬 More about me: [homepage](https://lethal233.github.io)
+- ✨ Contributions: [fastjson](https://github.com/alibaba/fastjson) and [easyexcel](https://github.com/alibaba/easyexcel)
 
 
 <!-- [![lethal233's GitHub stats](https://github-readme-stats.vercel.app/api?username=lethal233&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
