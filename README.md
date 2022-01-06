@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
 <!-- <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=lethal233" /> -->
 
-
+<img align='right' src='https://octodex.github.com/images/NUX_Octodex.gif' width='200"'>
 
 ### I'm LSL
 
