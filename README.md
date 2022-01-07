@@ -1,4 +1,4 @@
-## Bonjour 👋 
+## Bonjour, I'm Lori👋 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%E8%AF%97%E9%BE%99-%E9%BB%8E-675055220/)
 [![Mail](https://img.shields.io/badge/-leemdragon233@yahoo.com-6001D2?style=flat-square&logo=Yahoo&logoColor=white&link=mailto:leemdragon233@yahoo.com)](mailto:leemdragon233@yahoo.com)
