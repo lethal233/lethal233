@@ -1,7 +1,7 @@
 ## Bonjour, I'm Lori👋 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%E8%AF%97%E9%BE%99-%E9%BB%8E-675055220/)
-[![Mail](https://img.shields.io/badge/-leemdragon233@yahoo.com-6001D2?style=flat-square&logo=Yahoo&logoColor=white&link=mailto:leemdragon233@yahoo.com)](mailto:leemdragon233@yahoo.com)
+[![Mail](https://img.shields.io/badge/-leemdragon233@gmail.com-critical?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leemdragon233@gmail.com)](mailto:leemdragon233@gmail.com)
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
