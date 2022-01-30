@@ -13,11 +13,10 @@
 
 - ⚡ A Senior UG @ SUSTech CSE
 - 🔭 Software (backend) / hardware development
-- 😄 Wanting adventures
+<!-- - 😄 Wanting adventures -->
 - 🌱 Working on web testing
-- 💬 More about me: [homepage](https://lethal233.github.io)
+- 💬 More about me: [homepage](https://lethal233.github.io), feel free to contact me.
 - ✨ Contributions: [飞跃手册](https://sustech-application.com), [南科手册](https://sustech.online/), [fastjson](https://github.com/alibaba/fastjson), [easyexcel](https://github.com/alibaba/easyexcel)
-- Now I am having winter vocation!
 
 <!-- [![lethal233's GitHub stats](https://github-readme-stats.vercel.app/api?username=lethal233&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  -->
