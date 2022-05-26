@@ -12,8 +12,8 @@
 ### One, two, three, Cheese!
 
 - ⚡ A Senior UG @ SUSTech CSE
-- 🔭 Software (backend) / hardware development <!-- - 😄 Wanting adventures --> 
-- 🌱 Working on web testing
+- 🔭 Software development <!-- - 😄 Wanting adventures --> 
+- 🌱 Working on web testing via Selenium (IDE)
 - 💬 More about me: [homepage](https://lethal233.github.io)
 - ✨ Contributions: [飞跃手册](https://sustech-application.com), [南科手册](https://sustech.online/), [fastjson](https://github.com/alibaba/fastjson), [easyexcel](https://github.com/alibaba/easyexcel)
 - At SUSTech -- [Course Materials](https://github.com/lethal233/course-collections)
