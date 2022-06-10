@@ -1,4 +1,4 @@
-## Bonjour, I'm Lori👋 
+## Bonjour, I'm Shilong👋 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%E8%AF%97%E9%BE%99-%E9%BB%8E-675055220/)
 [![Mail](https://img.shields.io/badge/-leemdragon233_AT_gmail_dot_com-critical?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leemdragon233_AT_gmail_dot_com)](mailto:leemdragon233_AT_gmail_dot_com)
@@ -9,14 +9,14 @@
 
 <img align='right' src='https://octodex.github.com/images/filmtocat.png' width='200"'>
 
-### One, two, three, Cheese!
+<!-- ### One, two, three, Cheese! -->
 
-- ⚡ A Senior UG @ SUSTech CSE
+<!-- - ⚡ A Senior UG @ SUSTech CSE
 - 🔭 Software development <!-- - 😄 Wanting adventures --> 
-- 🌱 Final-Year Project: web testing via Selenium (IDE)
+<!-- - 🌱 Final-Year Project: web testing via Selenium (IDE) -->
 - 💬 More about me: [homepage](https://lethal233.github.io)
 - ✨ Contributions: [飞跃手册](https://sustech-application.com), [南科手册](https://sustech.online/), [fastjson](https://github.com/alibaba/fastjson), [easyexcel](https://github.com/alibaba/easyexcel)
-- At SUSTech -- [Course Materials](https://github.com/lethal233/course-collections)
+- 🌱 SUSTech courses -- [Course Materials](https://github.com/lethal233/course-collections)
 
 <!-- [![lethal233's GitHub stats](https://github-readme-stats.vercel.app/api?username=lethal233&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  -->
