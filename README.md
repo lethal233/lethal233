@@ -9,18 +9,23 @@
 
 <img align='right' src='https://octodex.github.com/images/filmtocat.png' width='200"'>
 
+- [lethal233.github.io](https://lethal233.github.io)
+- [Course Materials @ SUSTech](https://github.com/lethal233/course-collections)
+
 <!-- ### One, two, three, Cheese! -->
 
 <!-- - ⚡ A Senior UG @ SUSTech CSE
 - 🔭 Software development <!-- - 😄 Wanting adventures --> 
 <!-- - 🌱 Final-Year Project: web testing via Selenium (IDE) -->
-- 💬 More about me: [homepage](https://lethal233.github.io)
+<!-- - 💬 More about me: [homepage](https://lethal233.github.io)
 - ✨ Contributions: [飞跃手册](https://sustech-application.com), [南科手册](https://sustech.online/), [fastjson](https://github.com/alibaba/fastjson), [easyexcel](https://github.com/alibaba/easyexcel)
-- 🌱 SUSTech courses -- [Course Materials](https://github.com/lethal233/course-collections)
+- 🌱 SUSTech courses -- [Course Materials](https://github.com/lethal233/course-collections) -->
 
 <!-- [![lethal233's GitHub stats](https://github-readme-stats.vercel.app/api?username=lethal233&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  -->
 ![lethal233's GitHub stats](https://github-readme-stats.vercel.app/api?username=lethal233&count_private=true&bg_color=40,C7EDE9,AFD7ED&title_color=458994&text_color=14446A&show_icons=true)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lethal233&theme=github-light&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lethal233&layout=compact&hide=VHDL,Coq)](https://github.com/anuraghazra/github-readme-stats)
 
