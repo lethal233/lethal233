@@ -1,7 +1,7 @@
 ## Bonjour, I'm Shilong👋 
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.cn/incareer/in/shilong-li-675055220)
-[![Mail](https://img.shields.io/badge/-leemdragon233_AT_gmail_dot_com-critical?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leemdragon233_AT_gmail_dot_com)](mailto:leemdragon233_AT_gmail_dot_com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shilong-li/)
+[![Mail](https://img.shields.io/badge/-shilong.li213@gmail.com-critical?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shilong.li213@gmail.com)](mailto:shilong.li213@gmail.com)
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
