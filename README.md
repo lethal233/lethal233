@@ -25,10 +25,6 @@
  -->
 ![lethal233's GitHub stats](https://github-readme-stats.vercel.app/api?username=lethal233&count_private=true&bg_color=40,C7EDE9,AFD7ED&title_color=458994&text_color=14446A&show_icons=true)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lethal233&theme=github-light&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lethal233&layout=compact&hide=VHDL,Coq)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **lethal233/lethal233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
