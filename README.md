@@ -1,3 +1,5 @@
+<img align="center" src="./header.png" />
+
 ## Bonjour, I'm Shilong👋 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shilong-li/)
@@ -9,7 +11,6 @@
 
 <img align='right' src='https://octodex.github.com/images/filmtocat.png' width='200"'>
 
-- More about me: https://lethal233.github.io
 <!-- - [Course Materials @ SUSTech](https://github.com/lethal233/course-collections) -->
 
 <!-- ### One, two, three, Cheese! -->
