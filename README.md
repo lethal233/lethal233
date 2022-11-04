@@ -14,7 +14,9 @@
 <!-- - [Course Materials @ SUSTech](https://github.com/lethal233/course-collections) -->
 
 <!-- ### One, two, three, Cheese! -->
-
+- 🔭 I’m currently working on static analysis, dynamic analysis, mutation testing, software visualization
+- 🌱 I’m currently learning program analysis and software engineering
+- 😄 Pronouns: He/Him/His
 <!-- - ⚡ A Senior UG @ SUSTech CSE
 - 🔭 Software development <!-- - 😄 Wanting adventures --> 
 <!-- - 🌱 Final-Year Project: web testing via Selenium (IDE) -->
