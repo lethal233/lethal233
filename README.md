@@ -14,8 +14,9 @@
 <!-- - [Course Materials @ SUSTech](https://github.com/lethal233/course-collections) -->
 
 <!-- ### One, two, three, Cheese! -->
-- 🔭 I’m currently working on static analysis, dynamic analysis, mutation testing, software visualization
-- 🌱 I’m currently learning program analysis and software engineering
+- 🏫 A Master student @ UC Irvine
+- 🔭 I'm currently working on accessibility testing, autonomous driving software testing, and information retrieval
+- 🌱 I have completed many software engineering projects like Web testing, empirical software study on QC bugs
 - 😄 Pronouns: He/Him/His
 <!-- - ⚡ A Senior UG @ SUSTech CSE
 - 🔭 Software development <!-- - 😄 Wanting adventures --> 
