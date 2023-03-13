@@ -26,13 +26,19 @@
 
 <!-- [![lethal233's GitHub stats](https://github-readme-stats.vercel.app/api?username=lethal233&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  -->
-![lethal233's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lethal233&count_private=true&bg_color=40,C7EDE9,AFD7ED&title_color=458994&text_color=14446A&show_icons=true)
+
+
+### My star history
+
+[![Star History Chart](https://api.star-history.com/svg?repos=lethal233/SUSTech-CS315,lethal233/CS303A-projects,lethal233/course-collections&type=Timeline)](https://star-history.com/#lethal233/SUSTech-CS315&lethal233/CS303A-projects&lethal233/course-collections&Timeline)
 
 <!--
 **lethal233/lethal233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Visitor count
 <img src="https://profile-counter.glitch.me/lethal233/count.svg" />
+
+
 
 Here are some ideas to get you started:
 
