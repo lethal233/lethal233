@@ -14,8 +14,8 @@
 <!-- - [Course Materials @ SUSTech](https://github.com/lethal233/course-collections) -->
 
 <!-- ### One, two, three, Cheese! -->
-- 🏫 Incoming QA Intern @ Authentic8, Inc. | M.S. @ UC Irvine
-- 🔭 I'm currently working on JPMS, autonomous driving software testing, and computer vision
+- 🏫 QA Intern @ Authentic8, Inc. | M.S. @ UC Irvine
+- 🔭 I'm currently working on test automation framework and Blockchain project
 - 🌱 I have completed many software engineering projects like Web testing, empirical software study on QC bugs
 - 😄 Pronouns: He/Him/His
 <!-- - ⚡ A Senior UG @ SUSTech CSE
