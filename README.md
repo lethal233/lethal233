@@ -24,6 +24,11 @@
   - Open source community contributor
   - Accessiblity Testing on Web Applications
   - Program static/dynamic analysis
+  - 3D Objects Structure Recovery
+- Here are my tech stacks
+  - Java, Python, Golang, SQL, GraphQL, C/C++, HTML/CSS, JavaScript, Swift (learning)
+  - Spring Boot, MyBatis, JUnit, Selenium, Soot, Django, Redis, React.js, Vue.js, OpenCV
+  - Git, Docker, Jira, Postman, Azure, Maven, Gradle, AWS, Jenkins, mitmproxy, PyAutoGUI, Appium
 <!-- - ⚡ A Senior UG @ SUSTech CSE
 - 🔭 Software development <!-- - 😄 Wanting adventures --> 
 <!-- - 🌱 Final-Year Project: web testing via Selenium (IDE) -->
