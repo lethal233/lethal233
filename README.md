@@ -14,10 +14,16 @@
 <!-- - [Course Materials @ SUSTech](https://github.com/lethal233/course-collections) -->
 
 <!-- ### One, two, three, Cheese! -->
-- 🏫 Ex Intern @ Authentic8 | M.S. @ UC Irvine
-- 🔭 I'm currently working on test automation framework and Blockchain project
-- 🌱 I have completed many software engineering projects like Web testing, empirical software study on QC bugs
-- 😄 Pronouns: He/Him/His
+- 🏫 Ex Intern @ Authentic8 | M.S. @ UC Irvine | UG @ SUSTech
+- 🔭 I'm currently working on architectural recovery of JUnit 5 and simulation testing on Autonomous Driving
+- 🌱 Here are some topics that I have explored:
+  - Bug Pattern Fixes about open-source Quantum software projects
+  - Record/replay framework for Web Automation
+  - Backend & DataBase Development of a coding online assessment system
+  - Search Engine Development and Optimization
+  - Open source community contributor
+  - Accessiblity Testing on Web Applications
+  - Program static/dynamic analysis
 <!-- - ⚡ A Senior UG @ SUSTech CSE
 - 🔭 Software development <!-- - 😄 Wanting adventures --> 
 <!-- - 🌱 Final-Year Project: web testing via Selenium (IDE) -->
@@ -28,11 +34,11 @@
 <!-- [![lethal233's GitHub stats](https://github-readme-stats.vercel.app/api?username=lethal233&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  -->
 
-
+<!--
 ### My star history
 
 [![Star History Chart](https://api.star-history.com/svg?repos=lethal233/SUSTech-CS315,lethal233/CS303A-projects,lethal233/course-collections&type=Timeline)](https://star-history.com/#lethal233/SUSTech-CS315&lethal233/CS303A-projects&lethal233/course-collections&Timeline)
-
+ -->
 <!--
 **lethal233/lethal233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
