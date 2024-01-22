@@ -15,7 +15,7 @@
 
 <!-- ### One, two, three, Cheese! -->
 - 🏫 Ex Intern @ Authentic8 | M.S. @ UC Irvine | UG @ SUSTech
-- 🔭 I'm currently working on architectural recovery of JUnit 5 and simulation testing on Autonomous Driving
+- 🔭 I'm currently working on Autonomous Driving System Testing and Debugging, software visualization and dagger.js
 - 🌱 Here are some topics that I have explored:
   - Bug Pattern Fixes about open-source Quantum software projects
   - Record/replay framework for Web Automation
@@ -25,6 +25,7 @@
   - Accessiblity Testing on Web Applications
   - Program static/dynamic analysis
   - 3D Objects Structure Recovery
+  - Architectural recovery of JUnit 5
 - Here are my tech stacks
   - Java, Python, Golang, SQL, GraphQL, C/C++, HTML/CSS, JavaScript, Swift (learning)
   - Spring Boot, MyBatis, JUnit, Selenium, Soot, Django, Redis, React.js, Vue.js, OpenCV
