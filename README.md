@@ -3,7 +3,8 @@
 ## Bonjour, I'm Shilong👋 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shilong-li/)
-[![Mail](https://img.shields.io/badge/-shilong.li213@gmail.com-critical?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shilong.li213@gmail.com)](mailto:shilong.li213@gmail.com)
+[![Mail](https://img.shields.io/badge/-shilong.li213-critical?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shilong.li213@gmail.com)](mailto:shilong.li213_AT_gmail.com)
+[![ORCID](https://img.shields.io/badge/orcid-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-8875-983X)
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
