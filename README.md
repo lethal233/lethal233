@@ -15,7 +15,7 @@
 <!-- - [Course Materials @ SUSTech](https://github.com/lethal233/course-collections) -->
 
 <!-- ### One, two, three, Cheese! -->
-- 🏫 Ex Intern @ Authentic8 | M.S. @ UC Irvine | UG @ SUSTech
+- 🏫 M.S. @ UC Irvine | UG @ SUSTech | Ex Intern @ [Authentic8, Inc.](https://authentic8.com/)
 - 🔭 I'm currently working on Autonomous Driving System Testing and Debugging, software visualization and dagger.js
 - 🌱 Here are some topics that I have explored:
   - Bug Pattern Fixes about open-source Quantum software projects
