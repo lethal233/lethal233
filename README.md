@@ -13,35 +13,25 @@
 
 <img align='right' src='https://octodex.github.com/images/filmtocat.png' width='200"'>
 
-<!-- - [Course Materials @ SUSTech](https://github.com/lethal233/course-collections) -->
 
-<!-- ### One, two, three, Cheese! -->
-- 🏫 M.S. @ UC Irvine | UG @ SUSTech | Ex Intern @ [Authentic8, Inc.](https://authentic8.com/)
-- 🔭 I'm currently working on Autonomous Driving System Testing and Debugging, software visualization and dagger.js
+- 🏫 M.S. @ UC Irvine | UG @ SUSTech | Former Intern @ [Authentic8, Inc.](https://authentic8.com/)
+- 🔭 I am learning game dev, such as Unity, C#, and Unreal Engine.
 - 🌱 Here are some topics that I have explored:
   - Bug Pattern Fixes about open-source Quantum software projects
   - Record/replay framework for Web Automation
   - Backend & DataBase Development of a coding online assessment system
   - Search Engine Development and Optimization
   - Open source community contributor
-  - Accessiblity Testing on Web Applications
+  - Accessibility Testing on Web Applications
   - Program static/dynamic analysis
   - 3D Objects Structure Recovery
   - Architectural recovery of JUnit 5
+  - Software Testing for Autonomous Driving Systems
 - Here are my tech stacks
-  - Java, Python, Golang, SQL, GraphQL, C/C++, HTML/CSS, JavaScript, Swift (learning)
-  - Spring Boot, MyBatis, JUnit, Selenium, Soot, Django, Redis, React.js, Vue.js, OpenCV
+  - Java, Python, Golang, SQL, GraphQL, C/C++, HTML/CSS, JavaScript, Swift (learning), C# (learning)
+  - Spring Boot, MyBatis, JUnit, Selenium, Soot, Django, Redis, React.js, Vue.js, OpenCV, Unity (learning)
   - Git, Docker, Jira, Postman, Azure, Maven, Gradle, AWS, Jenkins, mitmproxy, PyAutoGUI, Appium
-<!-- - ⚡ A Senior UG @ SUSTech CSE
-- 🔭 Software development <!-- - 😄 Wanting adventures --> 
-<!-- - 🌱 Final-Year Project: web testing via Selenium (IDE) -->
-<!-- - 💬 More about me: [homepage](https://lethal233.github.io)
-- ✨ Contributions: [飞跃手册](https://sustech-application.com), [南科手册](https://sustech.online/), [fastjson](https://github.com/alibaba/fastjson), [easyexcel](https://github.com/alibaba/easyexcel)
-- 🌱 SUSTech courses -- [Course Materials](https://github.com/lethal233/course-collections) -->
-
-<!-- [![lethal233's GitHub stats](https://github-readme-stats.vercel.app/api?username=lethal233&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
- -->
-
+- I am actively looking for 2024 NG SDE position in the US, if you have any available spots please let me know! 
 <!--
 ### My star history
 
