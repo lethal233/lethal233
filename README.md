@@ -15,7 +15,7 @@
 
 
 - 🏫 M.S. @ UC Irvine | UG @ SUSTech | Former Intern @ [Authentic8, Inc.](https://authentic8.com/)
-- 🔭 I am learning game dev, such as Unity, C#, and Unreal Engine.
+- 🔭 I am learning game dev (i.e., Unity, C#, and Unreal Engine) and blockchain.
 - 🌱 Here are some topics that I have explored:
   - Bug Pattern Fixes about open-source Quantum software projects
   - Record/replay framework for Web Automation
